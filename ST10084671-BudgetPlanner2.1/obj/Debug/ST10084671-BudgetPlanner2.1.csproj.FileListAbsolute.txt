@@ -1,0 +1,8 @@
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\bin\Debug\ST10084671-BudgetPlanner2.1.exe.config
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\bin\Debug\ST10084671-BudgetPlanner2.1.exe
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\bin\Debug\ST10084671-BudgetPlanner2.1.pdb
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\obj\Debug\ST10084671-BudgetPlanner2.1.csproj.AssemblyReference.cache
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\obj\Debug\ST10084671-BudgetPlanner2.1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\obj\Debug\ST10084671-BudgetPlanner2.1.csproj.CoreCompileInputs.cache
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\obj\Debug\ST10084671-BudgetPlanner2.1.exe
+C:\Users\ammar\source\repos\ST10084671-BudgetPlanner2.1\ST10084671-BudgetPlanner2.1\obj\Debug\ST10084671-BudgetPlanner2.1.pdb
